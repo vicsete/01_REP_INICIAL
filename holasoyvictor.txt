@@ -1,5 +1,5 @@
 Hola, Git!
 
-Soy Victor. ¿Què tal?
+Soy Victor. ¿Que tal?
 
 Saludos.
